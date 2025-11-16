@@ -42,3 +42,4 @@ urllib3==2.5.0
 streamlit
 pandas
 pillow
+streamlit-authenticator
